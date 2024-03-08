@@ -8,4 +8,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 2. use cd to move to the project directory
-3. npm start
+3. npm install
+4. npm start
